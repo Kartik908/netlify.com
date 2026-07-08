@@ -1,1 +1,1 @@
-# kartiksinghal.netlify.com
+# netlify.com
